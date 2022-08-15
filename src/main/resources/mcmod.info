@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "xsware",
+    "name": "XSWARE",
+    "description": "XSWARE GOOD",
+    "version": "2.5.5`",
+    "mcversion": "1.12.2",
+    "logoFile": "",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["XSS6"],
+    "screenshots": [],
+    "dependencies": []
+  }
+]

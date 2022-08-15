@@ -1,0 +1,55 @@
+FD: me/xss6/xsware/mixin/mixins/MixinGuiNewChat/drawnChatLines me/xss6/xsware/mixin/mixins/MixinGuiNewChat/field_146253_i
+FD: me/xss6/xsware/mixin/mixins/MixinRenderEnderCrystal/modelEnderCrystalNoBase me/xss6/xsware/mixin/mixins/MixinRenderEnderCrystal/field_188316_g
+FD: me/xss6/xsware/mixin/mixins/MixinRenderEnderCrystal/modelEnderCrystal me/xss6/xsware/mixin/mixins/MixinRenderEnderCrystal/field_76995_b
+FD: me/xss6/xsware/mixin/mixins/MixinRenderEntityItem/itemRenderer me/xss6/xsware/mixin/mixins/MixinRenderEntityItem/field_177080_a
+FD: me/xss6/xsware/mixin/mixins/MixinRenderEntityItem/random me/xss6/xsware/mixin/mixins/MixinRenderEntityItem/field_177079_e
+FD: me/xss6/xsware/mixin/mixins/MixinRenderLivingBase/mainModel me/xss6/xsware/mixin/mixins/MixinRenderLivingBase/field_77045_g
+FD: me/xss6/xsware/mixin/mixins/MixinRenderer/renderOutlines me/xss6/xsware/mixin/mixins/MixinRenderer/field_188301_f
+FD: me/xss6/xsware/mixin/mixins/MixinRenderer/renderManager me/xss6/xsware/mixin/mixins/MixinRenderer/field_76990_c
+FD: me/xss6/xsware/mixin/mixins/MixinEntityRenderer/itemActivationItem me/xss6/xsware/mixin/mixins/MixinEntityRenderer/field_190566_ab
+FD: me/xss6/xsware/mixin/mixins/MixinEntityRenderer/mc me/xss6/xsware/mixin/mixins/MixinEntityRenderer/field_78531_r
+FD: me/xss6/xsware/mixin/mixins/MixinItemStack/itemDamage me/xss6/xsware/mixin/mixins/MixinItemStack/field_77991_e
+FD: me/xss6/xsware/mixin/mixins/MixinKeyBinding/pressed me/xss6/xsware/mixin/mixins/MixinKeyBinding/field_74513_e
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/posX me/xss6/xsware/mixin/mixins/MixinEntity/field_70165_t
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/posY me/xss6/xsware/mixin/mixins/MixinEntity/field_70163_u
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/posZ me/xss6/xsware/mixin/mixins/MixinEntity/field_70161_v
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/motionX me/xss6/xsware/mixin/mixins/MixinEntity/field_70159_w
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/motionY me/xss6/xsware/mixin/mixins/MixinEntity/field_70181_x
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/motionZ me/xss6/xsware/mixin/mixins/MixinEntity/field_70179_y
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/rotationYaw me/xss6/xsware/mixin/mixins/MixinEntity/field_70177_z
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/rotationPitch me/xss6/xsware/mixin/mixins/MixinEntity/field_70125_A
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/onGround me/xss6/xsware/mixin/mixins/MixinEntity/field_70122_E
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/world me/xss6/xsware/mixin/mixins/MixinEntity/field_70170_p
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/pistonDeltas me/xss6/xsware/mixin/mixins/MixinEntity/field_191505_aI
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/pistonDeltasGameTime me/xss6/xsware/mixin/mixins/MixinEntity/field_191506_aJ
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/isInWeb me/xss6/xsware/mixin/mixins/MixinEntity/field_70134_J
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/stepHeight me/xss6/xsware/mixin/mixins/MixinEntity/field_70138_W
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/collidedHorizontally me/xss6/xsware/mixin/mixins/MixinEntity/field_70123_F
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/collidedVertically me/xss6/xsware/mixin/mixins/MixinEntity/field_70124_G
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/collided me/xss6/xsware/mixin/mixins/MixinEntity/field_70132_H
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/distanceWalkedModified me/xss6/xsware/mixin/mixins/MixinEntity/field_70140_Q
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/distanceWalkedOnStepModified me/xss6/xsware/mixin/mixins/MixinEntity/field_82151_R
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/fire me/xss6/xsware/mixin/mixins/MixinEntity/field_190534_ay
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/nextStepDistance me/xss6/xsware/mixin/mixins/MixinEntity/field_70150_b
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/nextFlap me/xss6/xsware/mixin/mixins/MixinEntity/field_191959_ay
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/rand me/xss6/xsware/mixin/mixins/MixinEntity/field_70146_Z
+MD: me/xss6/xsware/mixin/mixins/MixinRenderEntityItem/getModelCount (Lnet/minecraft/item/ItemStack;)I me/xss6/xsware/mixin/mixins/MixinRenderEntityItem/func_177078_a (Lnet/minecraft/item/ItemStack;)I
+MD: me/xss6/xsware/mixin/mixins/MixinRenderEntityItem/getEntityTexture (Lnet/minecraft/entity/item/EntityItem;)Lnet/minecraft/util/ResourceLocation; me/xss6/xsware/mixin/mixins/MixinRenderEntityItem/func_110775_a (Lnet/minecraft/entity/item/EntityItem;)Lnet/minecraft/util/ResourceLocation;
+MD: me/xss6/xsware/mixin/mixins/MixinRenderEntityItem/transformModelCount (Lnet/minecraft/entity/item/EntityItem;DDDFLnet/minecraft/client/renderer/block/model/IBakedModel;)I me/xss6/xsware/mixin/mixins/MixinRenderEntityItem/func_177077_a (Lnet/minecraft/entity/item/EntityItem;DDDFLnet/minecraft/client/renderer/block/model/IBakedModel;)I
+MD: me/xss6/xsware/mixin/mixins/MixinRenderEntityItem/doRender (Lnet/minecraft/entity/item/EntityItem;DDDFF)V me/xss6/xsware/mixin/mixins/MixinRenderEntityItem/func_76986_a (Lnet/minecraft/entity/item/EntityItem;DDDFF)V
+MD: me/xss6/xsware/mixin/mixins/MixinAbstractClientPlayer/getPlayerInfo ()Lnet/minecraft/client/network/NetworkPlayerInfo; me/xss6/xsware/mixin/mixins/MixinAbstractClientPlayer/func_175155_b ()Lnet/minecraft/client/network/NetworkPlayerInfo;
+MD: me/xss6/xsware/mixin/mixins/MixinBlock/getBlockHardness (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;)F me/xss6/xsware/mixin/mixins/MixinBlock/func_176195_g (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;)F
+MD: me/xss6/xsware/mixin/mixins/MixinFontRenderer/renderString (Ljava/lang/String;FFIZ)I me/xss6/xsware/mixin/mixins/MixinFontRenderer/func_180455_b (Ljava/lang/String;FFIZ)I
+MD: me/xss6/xsware/mixin/mixins/MixinFontRenderer/renderStringAtPos (Ljava/lang/String;Z)V me/xss6/xsware/mixin/mixins/MixinFontRenderer/func_78255_a (Ljava/lang/String;Z)V
+MD: me/xss6/xsware/mixin/mixins/MixinGuiTextField/getText ()Ljava/lang/String; me/xss6/xsware/mixin/mixins/MixinGuiTextField/func_146179_b ()Ljava/lang/String;
+MD: me/xss6/xsware/mixin/mixins/MixinRenderer/bindEntityTexture (Lnet/minecraft/entity/Entity;)Z me/xss6/xsware/mixin/mixins/MixinRenderer/func_180548_c (Lnet/minecraft/entity/Entity;)Z
+MD: me/xss6/xsware/mixin/mixins/MixinRenderer/getTeamColor (Lnet/minecraft/entity/Entity;)I me/xss6/xsware/mixin/mixins/MixinRenderer/func_188298_c (Lnet/minecraft/entity/Entity;)I
+MD: me/xss6/xsware/mixin/mixins/MixinEntityRenderer/getMouseOver (F)V me/xss6/xsware/mixin/mixins/MixinEntityRenderer/func_78473_a (F)V
+MD: me/xss6/xsware/mixin/mixins/MixinRenderPlayer/getEntityTexture (Lnet/minecraft/client/entity/AbstractClientPlayer;)Lnet/minecraft/util/ResourceLocation; me/xss6/xsware/mixin/mixins/MixinRenderPlayer/func_110775_a (Lnet/minecraft/client/entity/AbstractClientPlayer;)Lnet/minecraft/util/ResourceLocation;
+MD: me/xss6/xsware/mixin/mixins/MixinEntity/isSprinting ()Z me/xss6/xsware/mixin/mixins/MixinEntity/func_70051_ag ()Z
+MD: me/xss6/xsware/mixin/mixins/MixinEntity/isRiding ()Z me/xss6/xsware/mixin/mixins/MixinEntity/func_184218_aH ()Z
+MD: me/xss6/xsware/mixin/mixins/MixinEntity/isSneaking ()Z me/xss6/xsware/mixin/mixins/MixinEntity/func_70093_af ()Z
+MD: me/xss6/xsware/mixin/mixins/MixinEntity/setEntityBoundingBox (Lnet/minecraft/util/math/AxisAlignedBB;)V me/xss6/xsware/mixin/mixins/MixinEntity/func_174826_a (Lnet/minecraft/util/math/AxisAlignedBB;)V
+MD: me/xss6/xsware/mixin/mixins/MixinEntity/getEntityBoundingBox ()Lnet/minecraft/util/math/AxisAlignedBB; me/xss6/xsware/mixin/mixins/MixinEntity/func_174813_aQ ()Lnet/minecraft/util/math/AxisAlignedBB;
+MD: me/xss6/xsware/mixin/mixins/MixinEntity/getMaxInPortalTime ()I me/xss6/xsware/mixin/mixins/MixinEntity/func_82145_z ()I
+MD: me/xss6/xsware/mixin/mixins/MixinMinecraft/displayGuiScreen (Lnet/minecraft/client/gui/GuiScreen;)V me/xss6/xsware/mixin/mixins/MixinMinecraft/func_147108_a (Lnet/minecraft/client/gui/GuiScreen;)V

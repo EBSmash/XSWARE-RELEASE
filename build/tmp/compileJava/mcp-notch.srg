@@ -1,0 +1,55 @@
+FD: me/xss6/xsware/mixin/mixins/MixinGuiNewChat/drawnChatLines me/xss6/xsware/mixin/mixins/MixinGuiNewChat/i
+FD: me/xss6/xsware/mixin/mixins/MixinRenderEnderCrystal/modelEnderCrystalNoBase me/xss6/xsware/mixin/mixins/MixinRenderEnderCrystal/g
+FD: me/xss6/xsware/mixin/mixins/MixinRenderEnderCrystal/modelEnderCrystal me/xss6/xsware/mixin/mixins/MixinRenderEnderCrystal/f
+FD: me/xss6/xsware/mixin/mixins/MixinRenderEntityItem/itemRenderer me/xss6/xsware/mixin/mixins/MixinRenderEntityItem/a
+FD: me/xss6/xsware/mixin/mixins/MixinRenderEntityItem/random me/xss6/xsware/mixin/mixins/MixinRenderEntityItem/f
+FD: me/xss6/xsware/mixin/mixins/MixinRenderLivingBase/mainModel me/xss6/xsware/mixin/mixins/MixinRenderLivingBase/f
+FD: me/xss6/xsware/mixin/mixins/MixinRenderer/renderOutlines me/xss6/xsware/mixin/mixins/MixinRenderer/e
+FD: me/xss6/xsware/mixin/mixins/MixinRenderer/renderManager me/xss6/xsware/mixin/mixins/MixinRenderer/b
+FD: me/xss6/xsware/mixin/mixins/MixinEntityRenderer/itemActivationItem me/xss6/xsware/mixin/mixins/MixinEntityRenderer/ab
+FD: me/xss6/xsware/mixin/mixins/MixinEntityRenderer/mc me/xss6/xsware/mixin/mixins/MixinEntityRenderer/h
+FD: me/xss6/xsware/mixin/mixins/MixinItemStack/itemDamage me/xss6/xsware/mixin/mixins/MixinItemStack/h
+FD: me/xss6/xsware/mixin/mixins/MixinKeyBinding/pressed me/xss6/xsware/mixin/mixins/MixinKeyBinding/i
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/posX me/xss6/xsware/mixin/mixins/MixinEntity/p
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/posY me/xss6/xsware/mixin/mixins/MixinEntity/q
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/posZ me/xss6/xsware/mixin/mixins/MixinEntity/r
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/motionX me/xss6/xsware/mixin/mixins/MixinEntity/s
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/motionY me/xss6/xsware/mixin/mixins/MixinEntity/t
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/motionZ me/xss6/xsware/mixin/mixins/MixinEntity/u
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/rotationYaw me/xss6/xsware/mixin/mixins/MixinEntity/v
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/rotationPitch me/xss6/xsware/mixin/mixins/MixinEntity/w
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/onGround me/xss6/xsware/mixin/mixins/MixinEntity/z
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/world me/xss6/xsware/mixin/mixins/MixinEntity/l
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/pistonDeltas me/xss6/xsware/mixin/mixins/MixinEntity/aJ
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/pistonDeltasGameTime me/xss6/xsware/mixin/mixins/MixinEntity/aK
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/isInWeb me/xss6/xsware/mixin/mixins/MixinEntity/E
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/stepHeight me/xss6/xsware/mixin/mixins/MixinEntity/P
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/collidedHorizontally me/xss6/xsware/mixin/mixins/MixinEntity/A
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/collidedVertically me/xss6/xsware/mixin/mixins/MixinEntity/B
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/collided me/xss6/xsware/mixin/mixins/MixinEntity/C
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/distanceWalkedModified me/xss6/xsware/mixin/mixins/MixinEntity/J
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/distanceWalkedOnStepModified me/xss6/xsware/mixin/mixins/MixinEntity/K
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/fire me/xss6/xsware/mixin/mixins/MixinEntity/az
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/nextStepDistance me/xss6/xsware/mixin/mixins/MixinEntity/ax
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/nextFlap me/xss6/xsware/mixin/mixins/MixinEntity/ay
+FD: me/xss6/xsware/mixin/mixins/MixinEntity/rand me/xss6/xsware/mixin/mixins/MixinEntity/S
+MD: me/xss6/xsware/mixin/mixins/MixinRenderEntityItem/getModelCount (Lnet/minecraft/item/ItemStack;)I me/xss6/xsware/mixin/mixins/MixinRenderEntityItem/a (Laip;)I
+MD: me/xss6/xsware/mixin/mixins/MixinRenderEntityItem/getEntityTexture (Lnet/minecraft/entity/item/EntityItem;)Lnet/minecraft/util/ResourceLocation; me/xss6/xsware/mixin/mixins/MixinRenderEntityItem/a (Lacl;)Lnf;
+MD: me/xss6/xsware/mixin/mixins/MixinRenderEntityItem/transformModelCount (Lnet/minecraft/entity/item/EntityItem;DDDFLnet/minecraft/client/renderer/block/model/IBakedModel;)I me/xss6/xsware/mixin/mixins/MixinRenderEntityItem/a (Lacl;DDDFLcfy;)I
+MD: me/xss6/xsware/mixin/mixins/MixinRenderEntityItem/doRender (Lnet/minecraft/entity/item/EntityItem;DDDFF)V me/xss6/xsware/mixin/mixins/MixinRenderEntityItem/a (Lacl;DDDFF)V
+MD: me/xss6/xsware/mixin/mixins/MixinAbstractClientPlayer/getPlayerInfo ()Lnet/minecraft/client/network/NetworkPlayerInfo; me/xss6/xsware/mixin/mixins/MixinAbstractClientPlayer/b ()Lbsc;
+MD: me/xss6/xsware/mixin/mixins/MixinBlock/getBlockHardness (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;)F me/xss6/xsware/mixin/mixins/MixinBlock/a (Lawt;Lamu;Let;)F
+MD: me/xss6/xsware/mixin/mixins/MixinFontRenderer/renderString (Ljava/lang/String;FFIZ)I me/xss6/xsware/mixin/mixins/MixinFontRenderer/b (Ljava/lang/String;FFIZ)I
+MD: me/xss6/xsware/mixin/mixins/MixinFontRenderer/renderStringAtPos (Ljava/lang/String;Z)V me/xss6/xsware/mixin/mixins/MixinFontRenderer/a (Ljava/lang/String;Z)V
+MD: me/xss6/xsware/mixin/mixins/MixinGuiTextField/getText ()Ljava/lang/String; me/xss6/xsware/mixin/mixins/MixinGuiTextField/b ()Ljava/lang/String;
+MD: me/xss6/xsware/mixin/mixins/MixinRenderer/bindEntityTexture (Lnet/minecraft/entity/Entity;)Z me/xss6/xsware/mixin/mixins/MixinRenderer/d (Lvg;)Z
+MD: me/xss6/xsware/mixin/mixins/MixinRenderer/getTeamColor (Lnet/minecraft/entity/Entity;)I me/xss6/xsware/mixin/mixins/MixinRenderer/c (Lvg;)I
+MD: me/xss6/xsware/mixin/mixins/MixinEntityRenderer/getMouseOver (F)V me/xss6/xsware/mixin/mixins/MixinEntityRenderer/a (F)V
+MD: me/xss6/xsware/mixin/mixins/MixinRenderPlayer/getEntityTexture (Lnet/minecraft/client/entity/AbstractClientPlayer;)Lnet/minecraft/util/ResourceLocation; me/xss6/xsware/mixin/mixins/MixinRenderPlayer/a (Lbua;)Lnf;
+MD: me/xss6/xsware/mixin/mixins/MixinEntity/isSprinting ()Z me/xss6/xsware/mixin/mixins/MixinEntity/aV ()Z
+MD: me/xss6/xsware/mixin/mixins/MixinEntity/isRiding ()Z me/xss6/xsware/mixin/mixins/MixinEntity/aS ()Z
+MD: me/xss6/xsware/mixin/mixins/MixinEntity/isSneaking ()Z me/xss6/xsware/mixin/mixins/MixinEntity/aU ()Z
+MD: me/xss6/xsware/mixin/mixins/MixinEntity/setEntityBoundingBox (Lnet/minecraft/util/math/AxisAlignedBB;)V me/xss6/xsware/mixin/mixins/MixinEntity/a (Lbhb;)V
+MD: me/xss6/xsware/mixin/mixins/MixinEntity/getEntityBoundingBox ()Lnet/minecraft/util/math/AxisAlignedBB; me/xss6/xsware/mixin/mixins/MixinEntity/bw ()Lbhb;
+MD: me/xss6/xsware/mixin/mixins/MixinEntity/getMaxInPortalTime ()I me/xss6/xsware/mixin/mixins/MixinEntity/Z ()I
+MD: me/xss6/xsware/mixin/mixins/MixinMinecraft/displayGuiScreen (Lnet/minecraft/client/gui/GuiScreen;)V me/xss6/xsware/mixin/mixins/MixinMinecraft/a (Lblk;)V
