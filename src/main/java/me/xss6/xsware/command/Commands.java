@@ -11,7 +11,7 @@ import java.util.List;
 
 public class Commands implements Globals {
 
-    public static String prefix = ".";
+    public static String prefix = "!";
     private final List<Command> commands = new ArrayList<>();
     private String nextArgument = "";
 
