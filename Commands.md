@@ -24,3 +24,5 @@
   - Reloads Capes
 - Reload Cosmetics
   - Reloads Cosmetics    
+- Command Prefix
+  - !
